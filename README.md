@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t0re199
-- 🎓 MSc Computer Engineering - Artificial Intelligence and Machine Learning 
+- 🎓 MSc Artificial Intelligence and Machine Learning 
 - 🎓 BSc Computer Engineering 
 - 👀 I’m interested in Computer Engineering 💻, Artificial Intelligence 🤖, Machine & Deep Learning 🧠 
 - 💞️ I’m looking to collaborate on Computer Vison, NLP, Biomedical AI, Software Engineering
