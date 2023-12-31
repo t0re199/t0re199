@@ -2,7 +2,7 @@
 - 💼 Machine Learning Engineer   
 - 🎓 MSc Artificial Intelligence and Machine Learning    
 - 🎓 BSc Computer Engineering    
-- 👀 I’m interested in Artificial Intelligence and Software Engineering 💻   
+- 👀 I’m interested in Artificial Intelligence 🤖 and Software Engineering 💻   
 - 💞️ I’m looking to collaborate on Computer Vison, LLMs, GenAI, Biomedical AI, Software Engineering   
 - 🌐 [t0re199.github.io](https://t0re199.github.io/)   
 
