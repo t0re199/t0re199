@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @t0re199
-- 🎓 MSc Artificial Intelligence and Machine Learning 
-- 🎓 BSc Computer Engineering 
-- 👀 I’m interested in Computer Engineering 💻, Artificial Intelligence 🤖, Machine & Deep Learning 🧠 
-- 💞️ I’m looking to collaborate on Computer Vison, NLP, Biomedical AI, Software Engineering
-- 🌐 [t0re199.github.io](https://t0re199.github.io/)
+- 👋 Hi, I’m Salvatore Petrolo @t0re199   
+- 💼 Machine Learning Engineer   
+- 🎓 MSc Artificial Intelligence and Machine Learning    
+- 🎓 BSc Computer Engineering    
+- 👀 I’m interested in Artificial Intelligence and Sogtware Engineering 💻   
+- 💞️ I’m looking to collaborate on Computer Vison, LLMs, GenAI, Biomedical AI, Software Engineering   
+- 🌐 [t0re199.github.io](https://t0re199.github.io/)   
 
 <!---
 t0re199/t0re199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
